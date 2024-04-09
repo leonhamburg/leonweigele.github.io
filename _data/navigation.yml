@@ -6,11 +6,14 @@ main:
   - title: "Projects"
     url: /projects
 
+  - title: "Disclaimer"
+    url: /terms
+
     # - title: "Stock-Analysis"
-    #   url: /stock-analysis
+    #   url: /stock-analysis/
 
   # - title: "Portfolio"
-  #   url: /portfolio
+  #   url: /portfolio/
 
   # - title: "Disclaimer"
   #   url: /disclaimer

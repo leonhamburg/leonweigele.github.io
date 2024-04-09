@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-You can find my resume [here](https://github.com/leonhamburg/leonweigele.github.io/blob/master/files/CV%20Leon%20Weigele.pdf)
+You can find my resume [here](https://leonweigele.github.io/files/CV%20Leon%20Weigele.pdf)
 
 <!--- {% include base_path %}
 

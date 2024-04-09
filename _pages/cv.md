@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my resume [here](https://github.com/leonhamburg/leonweigele.github.io/tree/master/files)
+You can find my resume [here](https://github.com/leonhamburg/leonweigele.github.io/blob/master/files/CV%20Leon%20Weigele.pdf)
 
 <!--- {% include base_path %}
 

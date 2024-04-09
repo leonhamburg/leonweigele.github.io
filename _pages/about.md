@@ -8,7 +8,8 @@
     - /about.html
 ---
 
-<div style="text-align: justify"><br> <br>
+<div style="text-align: initial">
+<br> <br>
 I am an Economics bachelor student at the University of Mannheim.<br>
 I am currently working as a Student Research Assistant at ZEW at the Corporate Taxation and Public Finance Research Department.<br> <br>
 

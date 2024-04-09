@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find my resume [here](https://github.com/leonhamburg/leonweigele.github.io/tree/master/files)
+
+<!--- {% include base_path %}
 
 Education
 ======
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --->

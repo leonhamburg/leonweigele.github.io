@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /cv
     
   - title: "Projects"
-    url: /projects/
+    url: /projects
 
-  - title: "Stock-Analysis"
-    url: /stock-analysis/ 
+    # - title: "Stock-Analysis"
+    #   url: /stock-analysis
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio
 
-  - title: "Disclaimer"
-    url: /disclaimer/
+  # - title: "Disclaimer"
+  #   url: /disclaimer

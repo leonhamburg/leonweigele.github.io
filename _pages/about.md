@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify">
 I am an Economics bachelor student at the University of Mannheim.
-I am currently working as a Student Research Assistant at ZEW at the Corporate Taxation and Public Finance Research Department.<br> <br> 
+I am currently working as a Student Research Assistant at ZEW at the Corporate Taxation and Public Finance Research Department.<br> <br></div>
 
 
 **Interests**

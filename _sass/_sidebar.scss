@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  width: 200px;
 
   @media screen and (min-width: $sidebar-min-width) {
     height: 100vh;
@@ -20,7 +21,6 @@
     padding-top: $masthead-height;
     left: 0;                       // Align to the left edge of the viewport
     top: 0;                        // Align to the top of the viewport
-    padding-top: $masthead-height;
   }
 
   @include breakpoint($large) {

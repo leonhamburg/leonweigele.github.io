@@ -24,12 +24,12 @@ author:
   avatar           : "leon-weigele.jpg"
   name             : "Leon Weigele"
   pronouns         : # example: "she/her"  
-  bio              : "Economics Bachelor Student <br> <br> at University of Mannheim <br> <br> <strong> Contact: </strong> <br> leon.weigele@students.uni-mannheim.de"
-  university       : "University of Mannheim"
+  bio              : "Economics Bachelor Student <br> at University of Mannheim <br> <br> <strong> Contact: </strong> <br> leon.weigele@students.uni-mannheim.de"
+  university       : # "University of Mannheim"
   location         : "Mannheim, Germany"
   employer         : "ZEW - Leibniz Centre for European Economic Research"
   uri              : # URL
-  email            : "leon@weigele.eu" 
+  email            : # "leon@weigele.eu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

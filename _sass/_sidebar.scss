@@ -81,17 +81,17 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  height: 36px;
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 36px;
+    height: 36px;
   }
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 100%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -135,15 +135,15 @@
   }
 }
 
-.author__desktop .employer-link {
-  color: $primary-color; /* Adjust the color to match your design */
-  text-decoration: none; /* Remove underline */
-  margin-left: 5px; /* Add spacing between the icon and the link */
-}
+// .author__desktop .employer-link {
+//   color: $primary-color; /* Adjust the color to match your design */
+//   text-decoration: none; /* Remove underline */
+//   margin-left: 20px; /* Add spacing between the icon and the link */
+// }
 
-.author__desktop .employer-link:hover {
-  text-decoration: underline; /* Add underline on hover */
-}
+// .author__desktop .employer-link:hover {
+//   text-decoration: underline; /* Add underline on hover */
+// }
 
 .author__pronouns {
   margin: 0;

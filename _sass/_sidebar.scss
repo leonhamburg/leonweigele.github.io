@@ -135,15 +135,17 @@
   }
 }
 
-// .author__desktop .employer-link {
-//   color: $primary-color; /* Adjust the color to match your design */
-//   text-decoration: none; /* Remove underline */
-//   margin-left: 20px; /* Add spacing between the icon and the link */
-// }
+.author__desktop .employer-link {
+  color: $primary-color; /* Adjust the color to match your design */
+  text-decoration: none; /* Remove underline */
+  display: flex; /* Use flexbox to align items horizontally */
+  margin-left: 20px; /* Add spacing between the icon and the link */
+}
 
-// .author__desktop .employer-link:hover {
-//   text-decoration: underline; /* Add underline on hover */
-// }
+.author__desktop .employer-link:hover {
+  text-decoration: underline; /* Add underline on hover */
+  margin-right: 5px;
+}
 
 .author__pronouns {
   margin: 0;
@@ -192,7 +194,7 @@
 }
 
 .author__urls {
-  display: none;
+  display: flex;
   position: absolute;
   right: 0;
   margin-top: 15px;

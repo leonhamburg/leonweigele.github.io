@@ -29,13 +29,10 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.university %}
-      <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ University of Mannheim }}</li>
+        <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.university }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop">
-          <i class="fa-solid fa-briefcase icon-pad-right" aria-hidden="true"></i>
-          <a href="https://www.zew.de" class="employer-link">{{ author.employer }}</a>
-        </li>
+        <li class="author__desktop"><i class="fa-solid fa-briefcase icon-pad-right" aria-hidden="true"></i><a href="https://www.zew.de" class="employer-link">{{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>

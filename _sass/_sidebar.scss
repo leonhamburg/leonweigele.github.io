@@ -206,7 +206,7 @@
   }
 
   &:before {
-    display: inline;
+    display: inline-block;
     content: "";
     position: absolute;
     top: -11px;
@@ -223,7 +223,7 @@
   }
 
   &:after {
-    display: inline;
+    display: inline-block;
     content: "";
     position: absolute;
     top: -10px;

@@ -9,9 +9,7 @@
 ---
 
 <div style="text-align: initial">
-<br> <br>
-I am an Economics bachelor student at the University of Mannheim.<br>
-I am currently working as a Student Research Assistant at ZEW at the Corporate Taxation and Public Finance Research Department.<br> <br>
+I am an Economics bachelor student at the University of Mannheim, currently working as a Student Research Assistant at ZEW at the Corporate Taxation and Public Finance Research Department.<br> <br>
 
 The aim of this website is to bundle my interests and projects and to structure them to make them accessabe to the world but to also get a better overview for myself.
 <br> <br>

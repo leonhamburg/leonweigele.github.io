@@ -206,7 +206,7 @@
   }
 
   &:before {
-    display: block;
+    display: flex;
     content: "";
     position: absolute;
     top: -11px;
@@ -223,7 +223,7 @@
   }
 
   &:after {
-    display: block;
+    display: flex;
     content: "";
     position: absolute;
     top: -10px;

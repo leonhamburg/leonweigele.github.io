@@ -81,7 +81,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -133,6 +133,16 @@
   @media screen and (min-width: 1024px) {
     display: block;
   }
+}
+
+.author__desktop .employer-link {
+  color: $primary-color; /* Adjust the color to match your design */
+  text-decoration: none; /* Remove underline */
+  margin-left: 5px; /* Add spacing between the icon and the link */
+}
+
+.author__desktop .employer-link:hover {
+  text-decoration: underline; /* Add underline on hover */
 }
 
 .author__pronouns {

@@ -18,6 +18,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.university<p class="author__university">{{ author.university }}</p>}{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -26,6 +27,9 @@
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+      {% endif %}
+      {% if author.university %}
+      <li class="author__desktop"><i class="fa-solid fa-briefcase" aria-hidden="true"></i>{{ author.university }}</li>
       {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
@@ -36,6 +40,8 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+
+    
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}

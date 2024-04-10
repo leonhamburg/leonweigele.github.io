@@ -20,6 +20,7 @@
     padding-top: $masthead-height;
     left: 0;                       // Align to the left edge of the viewport
     top: 0;                        // Align to the top of the viewport
+    padding-top: $masthead-height;
   }
 
   @include breakpoint($large) {

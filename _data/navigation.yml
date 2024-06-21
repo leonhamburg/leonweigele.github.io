@@ -9,6 +9,9 @@ main:
   - title: "Disclaimer"
     url: /disclaimer
 
+  - title: "Research"
+    url: /research
+
     # - title: "Stock-Analysis"
     #   url: /stock-analysis/
 
